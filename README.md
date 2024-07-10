@@ -1,0 +1,4 @@
+# csci349_2024sp
+
+## About Me!
+My name is Harrison Halesworth and I am a Junior Computer Science & Engineering major at Bucknell University's School of Engineering. I have a solid understanding and have design experience with data structures and algorithms as well as experience using Scrum methodologies during projects. In CSCI349 this semester I hope to gain experience with data engineering, preferably along the entire pipeline rather than just the early stages or just the later stages in order to become a novice data scientist. I already have landed an internship with IBM as a tech engineer for this summer and since much of the company's interests have to do with ML, AI and largely data itself, I hope this course will add the foundational knowledge I will need to work there over a long period of time.
